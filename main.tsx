@@ -3,14 +3,14 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "My Blog",
+  title: "It's Trail",
   description: "This is my new blog.",
   // header: <header>Your custom header</header>,
   // section: (post: Post) => <section>Your custom section with access to Post props.</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "./images/Logo_ichi.gif",
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "Ittetsu Sato",
 
   // middlewares: [
 

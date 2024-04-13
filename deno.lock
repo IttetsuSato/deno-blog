@@ -1,0 +1,23 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@types/node": "npm:@types/node@18.16.19"
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "redirects": {
+    "https://esm.sh/v135/@types/he@~1.2/index.d.ts": "https://esm.sh/v135/@types/he@1.2.3/index.d.ts",
+    "https://esm.sh/v135/@types/katex@~0.16/index.d.ts": "https://esm.sh/v135/@types/katex@0.16.7/index.d.ts",
+    "https://esm.sh/v135/@types/marked@^5/index.d.ts": "https://esm.sh/v135/@types/marked@5.0.2/index.d.ts",
+    "https://esm.sh/v135/@types/prismjs@^1/index.d.ts": "https://esm.sh/v135/@types/prismjs@1.26.3/index.d.ts",
+    "https://esm.sh/v135/@types/remove-markdown@^0/index.d.ts": "https://esm.sh/v135/@types/remove-markdown@0.3.4/index.d.ts",
+    "https://esm.sh/v135/@types/sanitize-html@~2.8/index.d.ts": "https://esm.sh/v135/@types/sanitize-html@2.8.1/index.d.ts"
+  },
+  "remote": {}
+}
