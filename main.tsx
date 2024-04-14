@@ -7,12 +7,12 @@ blog({
   title: "It's Trail",
   description: "This is my new blog.",
   // header: <header>Your custom header</header>,
-  section: (post: Post) => (
-    <section>
-      Your custom section with access to Post props.
-      {post}
-    </section>
-  ),
+  // section: (post: Post) => (
+  //   <section>
+  //     Your custom section with access to Post props.
+  //     {post}
+  //   </section>
+  // ),
   links: [
     { title: "GitHub", url: "https://github.com/IttetsuSato" },
     { title: "X", url: "https://twitter.com/Ittetsu0501" },
